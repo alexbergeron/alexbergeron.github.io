@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 
 Last Monday, February 10th, I had the honor to speak at Montreal Python 43 about the Scala Programming language.
-As promised, I've put my slides accessible on Gitub, via this fresh and kinda-useless-for-now Jekyll blog.
+As promised, I've put my slides accessible on GitHub, via this fresh and kinda-useless-for-now Jekyll blog.
 
-[You can see the slides here](/static/scala4py/index.html)
+[You can see the slides here](/static/scala4pydevs/index.html)
