@@ -2,7 +2,7 @@
 layout: post
 title:  "Slides for \"Scala for Python developers\" presentation"
 date:   2014-02-15 00:30:00
-categories: jekyll update
+categories: slides talk python scala
 ---
 
 Last Monday, February 10th, I had the honor to speak at Montreal Python 43 about the Scala Programming language.
